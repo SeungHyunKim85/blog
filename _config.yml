@@ -20,7 +20,7 @@ title                    : "Today I Learned"
 title_separator          : "-"
 name                     : "Today"
 description              : "Today I Learned"
-url                      : "https://seunghyunkim.github.io/"
+url                      : "https://seunghyunkim.github.com/"
 baseurl                  : "" the subpath of your site, e.g. "/blog" 
 repository               : "github.com/SeungHyunKim85/" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
