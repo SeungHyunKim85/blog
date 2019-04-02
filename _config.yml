@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Today"
 description              : "Today I Learned"
 url                      : "https://SeungHyunKim85.github.com/blog"
-baseurl                  : "/blog" the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "SeungHyunKim85/blog" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
